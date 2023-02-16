@@ -1,0 +1,23 @@
+{
+  "name": "ajs-hw-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorTkachev/ajs-hw-platforms.git"
+  },
+  "author": "Viktor Tkachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorTkachev/ajs-hw-platforms/issues"
+  },
+  "homepage": "https://github.com/ViktorTkachev/ajs-hw-platforms#readme",
+  "dependencies": {
+    "@viktortkachev/ajs": "^1.0.0"
+  }
+}
